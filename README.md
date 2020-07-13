@@ -93,6 +93,7 @@ If you want to be a reliability engineer or operations engineer, study more from
     - balanced search trees (general concept, not details)
     - traversals: preorder, inorder, postorder, BFS, DFS
 - [Sorting](#sorting)
+    - [_CHRIS's slide_](https://docs.google.com/presentation/d/1f0Pnb6TPZPPYpehhR8eweHK2OSka4xkbTAIW41kKIP0/edit?usp=sharing)
     - selection
     - insertion
     - heapsort
@@ -733,8 +734,8 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
         - [ ] heap_sort() - take an unsorted array and turn it into a sorted array in-place using a max heap
             - note: using a min heap instead would save operations, but double the space needed (cannot do in-place).
 
-## Sorting - (Chris C - reading)
-
+## Sorting
+[_CHRIS's slide_](https://docs.google.com/presentation/d/1f0Pnb6TPZPPYpehhR8eweHK2OSka4xkbTAIW41kKIP0/edit?usp=sharing)
 - [ ] Notes:
     - Implement sorts & know best case/worst case, average complexity of each:
         - no bubble sort - it's terrible - O(n^2), except when n <= 16
