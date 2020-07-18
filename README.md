@@ -617,8 +617,8 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
         - get(key)
         - remove(key)
 
-## More Knowledge
-
+## More Knowledge (Hardy Wu - reading)
+[_Hardy's slide (Binary search)_](https://docs.google.com/presentation/d/1YXsx1UTZpEP0Le1oW29Xmv6tyVfcSV9e_hxWrocSqGE/edit?usp=sharing)
 - ### Binary search
     - [hardy.wu] [Binary Search (video)](https://www.youtube.com/watch?v=D5SrAga1pno)
     - [hardy.wu] [Binary Search (video)](https://www.khanacademy.org/computing/computer-science/algorithms/binary-search/a/binary-search)
