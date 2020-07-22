@@ -100,6 +100,7 @@ If you want to be a reliability engineer or operations engineer, study more from
     - quicksort
     - merge sort
 - [Graphs](#graphs)
+    - [_CHRIS's slide_](https://docs.google.com/presentation/d/1c1or_AKPGVAgaRJLIZDRJkBCsxKYZj7ZIOMW8FKaDUs/edit?usp=sharing)
     - directed
     - undirected
     - adjacency matrix
@@ -811,6 +812,7 @@ If you need more detail on this subject, see "Sorting" section in [Additional De
 
 ## Graphs
 [_CHRIS's slide_](https://docs.google.com/presentation/d/1c1or_AKPGVAgaRJLIZDRJkBCsxKYZj7ZIOMW8FKaDUs/edit?usp=sharing)
+
 Graphs can be used to represent many problems in computer science, so this section is long, like trees and sorting were.
 
 - Notes:
