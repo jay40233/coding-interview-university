@@ -916,6 +916,7 @@ Graphs can be used to represent many problems in computer science, so this secti
 
 - ### Design patterns
     - ghoo1125 present (link)[https://docs.google.com/presentation/d/1URSVrUHCA9woXYT7Jb1XUE6tYfgbc5zc6SMSkM6rjgA/edit#slide=id.g8d5f47d66e_0_95]
+    - ghoo1125 (recorded video link - structural pattern)[https://drive.google.com/file/d/1oFOB9q2h2JQj54D6Chd3a3gu4kMQqfsg/view?usp=sharing]
     - [ghoo1125] [Quick UML review (video)](https://www.youtube.com/watch?v=3cmzqZzwNDM&list=PLGLfVvz_LVvQ5G-LdJ8RLqe-ndo7QITYc&index=3)
     - [ghoo1125] Learn these patterns:
         - [ghoo1125] strategy
