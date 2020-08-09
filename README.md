@@ -986,7 +986,7 @@ Graphs can be used to represent many problems in computer science, so this secti
         - [ ] [MIT 6.004 L16: Cache Issues (video)](https://www.youtube.com/watch?v=ajgC3-pyGlk&index=25&list=PLrRW1w6CGAcXbMtDFj205vALOGmiRc82-)
 
 - ### Processes and Threads
-[_CHRIS's slide_](https://docs.google.com/presentation/d/1sK_ctLeSjR3N57fSB_kA6IYvbtSNbPl0cjKRVfAQTGw/edit?usp=sharing)
+    - [_CHRIS's slide_](https://docs.google.com/presentation/d/1sK_ctLeSjR3N57fSB_kA6IYvbtSNbPl0cjKRVfAQTGw/edit?usp=sharing)
     - [CHRIS CHEN] Computer Science 162 - Operating Systems (25 videos):
         - for processes and threads see videos 1-11
         - [Operating Systems and System Programming (video)](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iBDyz-ba4yDskqMDY6A1w_c)
